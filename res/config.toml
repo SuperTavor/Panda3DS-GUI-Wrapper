@@ -12,7 +12,7 @@ BatteryPercentage = 12
 
 [SD]
 UseVirtualSD = true
-WriteProtectVirtualSD = true
+WriteProtectVirtualSD = false
 
 [GUI]
 ShowConsole = true
